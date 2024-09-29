@@ -27,6 +27,6 @@ This repository showcases the fundamental modules of Node.js, including CommonJS
 
  
 ## In this repo all the main Functionalities are included to be a node js developer
-
+https://nodejs.org/en/learn/getting-started/how-much-javascript-do-you-need-to-know-to-use-nodejs
 
 
